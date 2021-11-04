@@ -12,9 +12,9 @@ const CONFIG = {
     btnNo: 'đố c bấm được cái này :3',
     question: 'Hnao chúng ta đi ăn thế',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'đi ăn bún đậu đi <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    reply: 'minh ghét nhất ai tên minh vương 😠😠😠',
+    mess: 'Mình biết mà 😠😠😠😫😫',
+    messDesc: 'Nếu cậu đổi ý gọi cho t nhe 😓😓😓',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/vuong2507' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
