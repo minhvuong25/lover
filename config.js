@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'minh ghét nhất ai tên minh vương 😠😠😠',
     mess: 'Mình biết mà 😠😠😠😫😫',
     messDesc: 'Nếu cậu đổi ý gọi cho t nhe 😓😓😓',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun <33',
     messLink: 'https://www.facebook.com/vuong2507' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
