@@ -8,7 +8,7 @@ const CONFIG = {
     btnIntro: 'Hallo mắt nai',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'cậu thấy sao',
+    btnYes: 'Liệu t có thể đưa c ra bờ hồ ',
     btnNo: 'chỗ này không bấm được đầu 😅😅😅😅',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
