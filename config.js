@@ -8,13 +8,13 @@ const CONFIG = {
     btnIntro: 'Hallo mắt nai',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Liệu t có thể đưa c ra bờ hồ ',
-    btnNo: 'chỗ này không bấm được đầu 😅😅😅😅',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    btnYes: 'bấm chỗ này nhó 😉😉😉',
+    btnNo: 'đố c bấm được cái này :3',
+    question: 'Hnao chúng ta đi ăn thế',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'đi ăn bún đậu đi <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/vuong2507' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
