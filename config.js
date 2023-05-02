@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Bạn à',
     introDesc: `Mọi lời nói của bạn sẽ là bằng chứng của việc thích tôi`,
     btnIntro: 'Ấn vào chỗ này để biết bạn là ai',
-    title: 'Xin chào Hà Ang 🥰',
+    title: 'Xin chào Hoàngggg Anhhhh 🥰',
     desc: 'ʇɥƃıuoʇ ɯɐǝɹɔǝɔı ʇɐǝ ʇuɐʍ n op (quay ngược màn hình nhe)  ',
     btnYes: 'bấm chỗ này nhó 😉😉😉',
     btnNo: 'đố c bấm được cái này :3',
